@@ -2,8 +2,6 @@
 :
 $* 'World' >'Hello, World!'
 
-#sleep 20
-
 : missing-name
 :
 $* 2>>EOE != 0
