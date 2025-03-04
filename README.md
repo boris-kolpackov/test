@@ -1,6 +1,5 @@
 # test - An executable
 
-
 The `test` executable is a <SUMMARY-OF-FUNCTIONALITY>.
 
 Note that the `test` executable in this package provides `build2` metadata.
