@@ -1,4 +1,4 @@
-# test - An executable
+# test - A cool executable
 
 The `test` executable is a <SUMMARY-OF-FUNCTIONALITY>.
 
