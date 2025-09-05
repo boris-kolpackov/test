@@ -2,9 +2,9 @@
 
 int main (int argc, char* argv[])
 {
-#ifdef _WIN32
+//#ifdef _WIN32
   using namespace std;
-#endif
+//#endif
 
   if (argc < 2)
   {
