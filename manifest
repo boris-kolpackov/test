@@ -11,5 +11,5 @@ email: boris@codesynthesis.com
 depends: * build2 >= 0.17.0
 depends: * bpkg >= 0.17.0
 #depends: libhello ^1.0.0
-builds: latest
+builds: all
 
