@@ -2,6 +2,9 @@
 
 int f ()
 {
+#ifdef _WIN32
+  return 0;
+#endif
 }
 
 int main (int argc, char* argv[])
