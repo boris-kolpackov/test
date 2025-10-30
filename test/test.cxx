@@ -2,9 +2,9 @@
 
 int f ()
 {
-#ifdef _WIN32
+//#ifdef _WIN32
   return 0;
-#endif
+//#endif
 }
 
 int main (int argc, char* argv[])
